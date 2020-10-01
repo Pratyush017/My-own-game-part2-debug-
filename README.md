@@ -1,1 +1,2 @@
-# My-own-game-part2-debug-
+# p5.play-boilerplate
+Boiler plate for p5.play
